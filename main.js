@@ -126,10 +126,10 @@ console.log(getDataType('car make ', 1969))
    
 
 
-//    function addSong(album, song){
-//     album = album.push(songs)
-//     album[duration];  album[duration] += song[duration]
-//    }
+   function addSong(album, song){
+    album = album.push(songs)
+    album[duration];  album[duration] += song[duration]
+   }
 
 
 //    function updateReportCard()
